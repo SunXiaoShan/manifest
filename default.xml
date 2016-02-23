@@ -1,0 +1,9 @@
+<manifest>
+    <remote fetch="https://github.com"
+                  name="SunXiaoShan">
+    <default remote="SunXiaoShan"
+                  revision="master"
+                  sync-j="1">
+    <project name="SunXiaoShan/ToolScript"
+                   path="ToolScript">
+</manifest>
