@@ -4,6 +4,6 @@
     <default remote="SunXiaoShan"
                   revision="master"
                   sync-j="1">
-    <project name="SunXiaoShan/ToolScript"
+    <project name="ToolScript"
                    path="ToolScript">
 </manifest>
