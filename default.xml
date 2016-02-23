@@ -1,11 +1,6 @@
 <manifest>
-    <remote fetch=".."
-                  name="origin">
-                  
-    <default remote="origin"
-                  revision="master"
-                  sync-j="1">
-                  
-    <project name="SunXiaoShan/ToolScript"
-                   path="ToolScript">
+    <remote fetch="https://github.com" name="SunXiaoShan" />
+    <default remote="SunXiaoShan" revision="master" sync-j="4" />
+            
+    <project name="SunXiaoShan/ToolScript" path="ToolScript" />
 </manifest>
