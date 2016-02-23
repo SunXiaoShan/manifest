@@ -3,5 +3,4 @@
     <default remote="SunXiaoShan" revision="master" sync-j="4" />
             
     <project name="SunXiaoShan/ToolScript" path="ToolScript" />
-    <project name="SunXiaoShan/Hello-world-mvc-pattern" path="Hello-world-mvc-pattern" />
 </manifest>
